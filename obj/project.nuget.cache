@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gv3AEWXiyeQ3Ur59j/aA7Pi3V/DLez3zLDolwWg96dpReFFd+m50GXwGswmGJxRqILsB930n8xrnsl4AoBvXTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cesar\\source\\repos\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cesar\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
